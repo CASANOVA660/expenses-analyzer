@@ -7,38 +7,14 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 
 
-
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/Kielx/expenses-analyzer">
-    <img src="https://www.flaticon.com/svg/static/icons/svg/475/475048.svg" alt="Logo" width="80" height="80">
-  </a>
 
   <h3 align="center">Expenses-Analyzer</h3>
 
   <p align="center">
     A React based app, that allows to safely analyze bank account logs stored in .csv files
     <br />
-    <a href="https://github.com/Kielx/expenses-analyzer"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://kielx.github.io/expenses-analyzer/">View Demo</a>
-    ·
-    <a href="https://github.com/Kielx/expenses-analyzer/issues">Expenses-analyzer Bug</a>
-    ·
-    <a href="https://github.com/Kielx/expenses-analyzer/issues">Request Feature</a>
-  </p>
-</p>
-
-![AppScreenshot](https://raw.github.com/Kielx/expenses-analyzer/screenshots/screenshots/main.png?raw=true "Optional Title")
-
 
 
 <!-- TABLE OF CONTENTS -->
@@ -126,9 +102,6 @@ I provided the app with 'load default data' button, that presents some data to s
 - [ ] Insights about particular expenses
 - [x] Amounts spent on particular type of activity (eg. food, electronics, leisure)
 - [ ] Routes
-- [ ] Polish translation (since it supports only polish MBank account data for now)
-
-See the [open issues](https://github.com/Kielx/expenses-analyzer/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -146,33 +119,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See `LICENSE` for more information
 
 
 
-<!-- CONTACT -->
-## Contact
-
-Kielx.dev@gmail.com
-
-Project Link: [https://github.com/Kielx/expenses-analyzer](https://github.com/Kielx/expenses-analyzer)
-
-
-
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Kielx/expenses-analyzer.svg?style=for-the-badge
-[contributors-url]: https://github.com/Kielx/expenses-analyzer/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Kielx/expenses-analyzer.svg?style=for-the-badge
-[forks-url]: https://github.com/Kielx/expenses-analyzer/network/members
-[stars-shield]: https://img.shields.io/github/stars/Kielx/expenses-analyzer.svg?style=for-the-badge
-[stars-url]: https://github.com/Kielx/expenses-analyzer/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Kielx/expenses-analyzer.svg?style=for-the-badge
-[issues-url]: https://github.com/Kielx/expenses-analyzer/issues
-[license-shield]: https://img.shields.io/github/license/Kielx/expenses-analyzer?style=for-the-badge
-[license-url]: https://img.shields.io/github/license/Kielx/expenses-analyzer?style=for-the-badge
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/Kielx
